@@ -1,0 +1,49 @@
+body {
+    margin: auto;
+    background-color: rgb(233, 241, 255);
+}
+
+header {
+    background-color: rgb(211, 211, 211);
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+p {
+    margin-left: 10px;
+}
+
+.info {
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000000;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+h2 {
+    background-color: rgb(55, 55, 127);
+    color: rgb(222, 222, 255);
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+h3 {
+    background-color: rgb(80, 80, 120);
+    color: rgb(222, 222, 255);
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 5px;
+}
